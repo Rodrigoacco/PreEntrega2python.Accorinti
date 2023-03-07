@@ -1,0 +1,8 @@
+license
+setup.py
+mi_cliente/__init__.py
+mi_cliente/cliente.py
+mi_cliente.egg-info/PKG-INFO
+mi_cliente.egg-info/SOURCES.txt
+mi_cliente.egg-info/dependency_links.txt
+mi_cliente.egg-info/top_level.txt
